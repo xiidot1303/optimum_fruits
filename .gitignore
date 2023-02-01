@@ -1,0 +1,12 @@
+.env
+venv
+db.sqlite3
+__pycache__/
+app/migrations
+**/__init__.py
+__init__.py
+files
+staticfiles
+!app/views/__init__.py
+!app/utils/__init__.py
+!app/services/__init__.py
