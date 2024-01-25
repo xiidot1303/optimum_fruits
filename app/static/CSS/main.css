@@ -109,8 +109,8 @@ button
 }
 .logo_image 
 {
-    width: 62px;
-    height: 59px;
+    width: 150px;
+    height: 130px;
     background-image: url('../Images/main_logo.png');
     background-size: cover;
     background-position: center;
